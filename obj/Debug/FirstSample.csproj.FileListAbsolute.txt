@@ -1,0 +1,6 @@
+D:\Data\Dydaktyka\II\2012-2013Zima\KursWWW\przykłady\tint-p15-aspmvc\ASPNETMVCSamples\FirstSample\bin\FirstSample.dll
+D:\Data\Dydaktyka\II\2012-2013Zima\KursWWW\przykłady\tint-p15-aspmvc\ASPNETMVCSamples\FirstSample\bin\FirstSample.pdb
+D:\Data\Dydaktyka\II\2012-2013Zima\KursWWW\przykłady\tint-p15-aspmvc\ASPNETMVCSamples\FirstSample\bin\EntityFramework.dll
+D:\Data\Dydaktyka\II\2012-2013Zima\KursWWW\przykłady\tint-p15-aspmvc\ASPNETMVCSamples\FirstSample\bin\EntityFramework.xml
+D:\Data\Dydaktyka\II\2012-2013Zima\KursWWW\przykłady\tint-p15-aspmvc\ASPNETMVCSamples\FirstSample\obj\Debug\FirstSample.dll
+D:\Data\Dydaktyka\II\2012-2013Zima\KursWWW\przykłady\tint-p15-aspmvc\ASPNETMVCSamples\FirstSample\obj\Debug\FirstSample.pdb
